@@ -1,0 +1,16 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "ahmedTL",
+    "email": "ahmedtlaidjia@proton.me"
+  },
+
+  "target": {
+    "A": {
+      "value": "216.24.57.1"
+    }
+  },
+
+  "proxied": false
+}
